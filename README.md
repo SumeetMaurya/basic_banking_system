@@ -1,2 +1,22 @@
-# basic_banking_system
-This is basic banking system created by me as task for intenship under sparks foundation
+# Basic Banking System
+
+**basic banking system application**
+
+
+### Tech stacks
+
+- Frontend tools: HTML, CSS, JavaScript & Bootstrap
+
+- Backend tools: NodeJS & ExpressJS 
+
+- Database: MongoDB
+
+<br><br><br>
+
+**&copy; [Sonu Kumar Kushwaha](https://github.com/SumeetMaurya/)**
+
+### Thanks!
+
+Thank you for being here! You can find my other **[projects here](https://github.com/SumeetMaurya/)**.
+
+<br><br>
