@@ -13,7 +13,7 @@
 
 <br><br><br>
 
-**&copy; [Sonu Kumar Kushwaha](https://github.com/SumeetMaurya/)**
+**&copy; [Sumeet Maurya](https://github.com/SumeetMaurya/)**
 
 ### Thanks!
 
